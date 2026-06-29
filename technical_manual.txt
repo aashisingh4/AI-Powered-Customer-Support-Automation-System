@@ -1,0 +1,6 @@
+If the application crashes during upload:
+
+1. Verify file format
+2. Restart application
+3. Clear cache
+4. Contact support if issue persists
